@@ -1,0 +1,15 @@
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\SchoolService.dll.config
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\SchoolService.dll
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\SchoolService.pdb
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\obj\Debug\SchoolService.csprojAssemblyReference.cache
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\obj\Debug\SchoolService.csproj.CoreCompileInputs.cache
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\obj\Debug\SchoolService.dll
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\obj\Debug\SchoolService.pdb
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\SchoolServiceLibrary.dll
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\EntityFramework.dll
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\MySql.Data.dll
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\SchoolServiceLibrary.pdb
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\SchoolServiceLibrary.dll.config
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\EntityFramework.xml
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\bin\MySql.Data.xml
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolService\obj\Debug\SchoolService.csproj.CopyComplete
