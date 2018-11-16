@@ -19,7 +19,7 @@
       * Using **ADO.NET Entity Framework Model**
       * Download **Connector/Net** from MySQL website
       * Add Reference to **MySql.Data**, **MySql.Web**, **MySql.Data.Entity.EF6** and **EntityFramework**
-      * (Make sure "<provider invariantName="MySql.Data.MySqlClient" type="MySql.Data.MySqlClient.MySqlProviderServices, MySql.Data.Entity.EF6, Version=6.10.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d"></provider>" is added to the App.config file
+      * (Make sure "&lt;provider invariantName="MySql.Data.MySqlClient" type="MySql.Data.MySqlClient.MySqlProviderServices, MySql.Data.Entity.EF6, Version=6.10.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d"&gt;&lt;/provider&gt;" is added to the App.config file
       * Rebuild Project
       * Right Click > Add > New Item... > ADO.NET Entity Data Model > MySQL Database option
       * (see "new_way_implementation" folder)
