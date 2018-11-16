@@ -11,10 +11,15 @@ namespace SchoolServiceLibrary
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.Runtime.Serialization;
+
+    [DataContract]
     public partial class Course
     {
+        [DataMember]
         public int id { get; set; }
+
+        [DataMember]
         public string name { get; set; }
     }
 }

@@ -11,13 +11,24 @@ namespace SchoolServiceLibrary
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.Runtime.Serialization;
+
+    [DataContract]
     public partial class Teacher
     {
+        [DataMember]
         public int id { get; set; }
+
+        [DataMember]
         public string firstname { get; set; }
+
+        [DataMember]
         public string lastname { get; set; }
+
+        [DataMember]
         public string description { get; set; }
+
+        [DataMember]
         public string image { get; set; }
     }
 }

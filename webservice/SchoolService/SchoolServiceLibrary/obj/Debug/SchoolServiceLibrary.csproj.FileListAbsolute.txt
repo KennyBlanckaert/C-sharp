@@ -19,3 +19,4 @@ C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\School
 C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolServiceLibrary\bin\Debug\MySql.Web.xml
 C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolServiceLibrary\bin\Debug\Google.Protobuf.dll
 C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolServiceLibrary\bin\Debug\Google.Protobuf.xml
+C:\Users\Hoofdgebruiker\Desktop\Projects\C-sharp\webservice\SchoolService\SchoolServiceLibrary\obj\Debug\SchoolServiceLibrary.csprojAssemblyReference.cache
