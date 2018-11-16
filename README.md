@@ -23,6 +23,7 @@
       * Rebuild Project
       * Right Click > Add > New Item... > ADO.NET Entity Data Model > MySQL Database option
       * (see "new_way_implementation" folder)
+  * *To change between these implementations, don't forget to switch Services within the app.config file*
 * *`Steps Web Application`*
   * ...
 * *`For Testing:`* 
