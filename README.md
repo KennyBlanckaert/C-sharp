@@ -25,7 +25,9 @@
       * (see "new_way_implementation" folder)
   * *To change between these implementations, don't forget to switch Services within the app.config file*
 * *`Steps Web Application`*
-  * ...
+  * Create a new Project (Web App)
+  * Add pages for your website
+  * Publish project on a webserver for verification
 * *`For Testing:`* 
   * Right-click Project > Debug > Start new instance
 * *`For Use:`*
